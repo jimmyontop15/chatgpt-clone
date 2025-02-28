@@ -4,7 +4,7 @@
         "port" : 1338,
         "debug": false
     },
-    "openai_key": "sk-...",
+    "openai_key": "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",
 
     "openai_api_base": "https://api.openai.com",
     "proxy": {
